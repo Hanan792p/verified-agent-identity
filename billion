@@ -1,9 +1,9 @@
-name: Verify Human Identity
+name: birulaji@gmail.com
 
 on:
   workflow_dispatch:
     inputs:
-      agent_name:
+      agent_name:birulaji@gmail.com
         description: 'finder'
         required: true
         default: 'finder'
